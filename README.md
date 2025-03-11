@@ -1,4 +1,4 @@
-##Generative AI Bootcamp – Introduction to LLM Apps & AI Agents   
+## Generative AI Bootcamp – Introduction to LLM Apps & AI Agents   
 
 This **Generative AI Bootcamp** provides hands-on knowledge for developing applications using **Large Language Models (LLMs)** and **AI Agents**.  
 The course guides you through building modern **LLM-powered applications**, utilizing various frameworks and technologies.  
