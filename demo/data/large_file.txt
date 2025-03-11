@@ -1,2 +1,0 @@
-Das ist eine neue Zeile.
-Dies ist eine angehängte Zeile.
